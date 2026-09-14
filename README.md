@@ -1,6 +1,6 @@
 # Teoria de Controle Fractal (FCT)
 
-**Autor:** Euzébio Soares  
+**Autor:** Euzébio Soares dos Santos
 **Email:** euambiente@gmail.com
 
 ## Resumo
@@ -55,6 +55,6 @@ fractal-control-theory/
 
 ## Contato
 
-**Euzébio Soares**  
+**Euzébio Soares dos Santos**  
 Pesquisador Independente  
 euambiente@gmail.com

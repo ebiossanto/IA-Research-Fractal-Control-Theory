@@ -71,6 +71,6 @@ Agradeço a atenção e fico à disposição para discutir os resultados.
 
 Atenciosamente,
 
-**Euzébio Soares**
-Pesquisador Independente
+**Euzébio Soares dos Santos**  
+Pesquisador Independente  
 euambiente@gmail.com
