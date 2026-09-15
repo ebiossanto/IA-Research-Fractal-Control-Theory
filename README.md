@@ -18,8 +18,20 @@ Este projeto estabelece uma conexão formal entre:
 - **Álgebra Abstrata** (grupos quocientes, Z₂³)
 - **Teoria de Filas** (M/M/1)
 - **Criptografia** (ataques de canal lateral)
+- **Monitoramento de Silício** (diagnóstico de microchips)
 
 A "Ponte Analítica" é o teorema central: obstruções algébricas causam inflação de latência mensurável através do fator de amplificação ρ/(1-ρ).
+
+## Eixos de Pesquisa
+
+| Eixo | Título | Foco |
+|------|--------|------|
+| 1 | Ponte Analítica | Fundação matemática |
+| 2 | Bullwhip Algébrico | Amplificação em cascata |
+| 3 | Não-Abelianos | Grupos simétricos S_n |
+| 4 | Canal Lateral | Ataques baseados em latência |
+| 5 | Relaxamento Estocástico | Comportamento sob saturação |
+| **6** | **Silício** | **Monitoramento de microchips** |
 
 ## Resultados Principais
 
@@ -27,6 +39,18 @@ A "Ponte Analítica" é o teorema central: obstruções algébricas causam infla
 2. O erro dinâmico E₆* = 1/6 devido ao Teorema de Lagrange
 3. Sob carga ρ = 0.99, erro amplifica para 93.65% de atraso
 4. Oráculo de inversão extrai taxa de erro interna
+5. **Aplicação em Silício:** Protocolo de monitoramento não destrutivo para microchips
+
+## Aplicação em Silício (Eixo 6)
+
+O Eixo 6 extende a Ponte Analítica para **monitoramento de microchips**:
+
+- **Detecção de defeitos** em fabricação
+- **Monitoramento de envelhecimento** do chip
+- **Segurança de hardware** contra comprometimento
+
+**Fórmula Central:**
+$$P_{99}^{chip}(\rho) = P_{99}^{ideal} \cdot \left(1 + \frac{\rho}{1-\rho} \cdot \epsilon^2\right) + O(\epsilon^4)$$
 
 ## Direitos Autorais
 
