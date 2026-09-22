@@ -6,7 +6,7 @@
 
 **Ferramentas utilizadas:** Gemini MiMo V2.5, GPT 5.6 Copilot, Opencode
 
-**Autor:** Euzebio Santos — Estudante, entusiasta e pesquisador
+**Autor:** Euzébio Soares dos Santos — Estudante, entusiasta e pesquisador
 
 
 **Autor:** EuzÃ©bio Soares dos Santos
